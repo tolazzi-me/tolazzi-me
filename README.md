@@ -1,5 +1,4 @@
 <h1 align="center">Seja bem vindo(a)!</h1>
-
 <div style="display: inline_block" align="center"><br>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=tolazzi-me&show_icons=false&theme=tokyonight"/>
 </div>
@@ -16,8 +15,9 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 </div>
 
-<h1>Como me encontrar:</h1>
+<h1 style: color:bue>Como me encontrar:</h1>
 <div>
   <a href="https://www.instagram.com/tolazzi.me/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saimon-tolazzi-2750a71b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="right" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
  </dv>
