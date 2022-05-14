@@ -13,3 +13,8 @@
 <div style="display: inline_block" align="center"><br>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=tolazzi-me&show_icons=false&theme=tokyonight"/>
 </div>
+
+<div align="center"><br>
+  <a href="https://www.instagram.com/tolazzi.me/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/saimon-tolazzi-2750a71b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </dv>
