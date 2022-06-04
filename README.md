@@ -17,7 +17,7 @@
 
 <h1 style: color:bue>Como me encontrar:</h1>
 <div>
-  <a href="https://www.instagram.com/tolazzi.me/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/tolazzi.me/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
   <a href="https://www.linkedin.com/in/saimon-tolazzi-2750a71b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+  <a href="https://www.behance.net/saimontolazzi" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" height="40" widht="50" target="_blank" align="right"></a>
  </dv>
