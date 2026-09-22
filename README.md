@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua "NOME_DA_SUA_LOGO.png" pelo nome exato do arquivo que você subiu no Passo 1 -->
-  <img src="LogoSemFundoComBranco.png" alt="TolazzAI Corp" width="400">
+  <img src="LogoSemFundoComBranco.png" alt="TolazzAI Corp" width="500">
   
   <br><br>
   <p><b>Hiperautomação | Inteligência Artificial | Business Intelligence</b></p>
