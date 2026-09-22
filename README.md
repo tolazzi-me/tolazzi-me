@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Banner Dinâmico com efeito de onda (Cores TolazzAI: Escuro e Ciano) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0C10&height=250&section=header&text=TolazzAI%20Corp&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Hiperautomação%20%7C%20Inteligência%20Artificial%20%7C%20Business%20Intelligence&descAlignY=55&descAlign=50" width="100%" />
-</div>
+  <!-- Substitua "NOME_DA_SUA_LOGO.png" pelo nome exato do arquivo que você subiu no Passo 1 -->
+  <img src="LogoSemFundoComBranco.png" alt="TolazzAI Corp" width="400">
+  
+  <br><br>
+  <p><b>Hiperautomação | Inteligência Artificial | Business Intelligence</b></p>
+  <br>
 
-<br>
-
-<div align="center">
   <i>"A inovação só é sustentável quando construída sobre uma base de engenharia sólida. Nós não automatizamos apenas tarefas; nós arquitetamos o futuro da sua empresa."</i>
 </div>
 
